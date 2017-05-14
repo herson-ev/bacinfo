@@ -1,6 +1,6 @@
 # bacinfo
 Simple python script mapping BACnet element names and their corresponding numeric code.
-So far, only BACnet objects and properties are included in the script.
+So far only BACnet objects and properties are included in the script.
 The code is *not* meant to be robust. It will crash if you request unavailable elements.
 It simply saves me some time on my daily tasks.
 
